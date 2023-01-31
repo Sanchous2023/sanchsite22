@@ -3440,7 +3440,7 @@ var u0 = $u((f0, mu) => {
             return Math.round((e + Number.EPSILON) * n) / n
         }
         static isProduction() {
-            return window.location.hostname === "jackbox.tv"
+            return window.location.hostname === "sunchbox.site"
         }
         static htmlUnescape(e) {
             return String(e).replace(/&quot;/gi, '"').replace(/&#39;/gi, "'").replace(/&lt;/gi, "<").replace(/&gt;/gi, ">").replace(/&amp;/gi, "&")
@@ -7096,7 +7096,7 @@ var u0 = $u((f0, mu) => {
             categoryId: "OverdrawnGame",
             shopItems: ["shirts"]
         }, {
-            name: "You Don't Know Jack: Full Stream",
+            name: "Ты не знаешь САНЧОУСА: 2018",
             tag: "ydkj2018",
             wrapper: "marionette",
             isPublic: !0,
@@ -7225,7 +7225,7 @@ var u0 = $u((f0, mu) => {
             categoryId: "DrawfulAnimateGame",
             features: ["moderation"]
         }, {
-            name: "The Wheel of Enormous Proportions",
+            name: "Пельмень Невероятных Масштабов",
             tag: "the-wheel",
             wrapper: "vue",
             isPublic: !0,
