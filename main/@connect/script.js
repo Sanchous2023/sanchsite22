@@ -8928,7 +8928,7 @@ var tae = M$((nae, nI) => {
         static pageView(t) {
             gtag("event", "page_view", {
                 page_title: t,
-                page_location: `https://jackbox.tv/${t}`
+                page_location: `https://sunchbox.site${t}`
             })
         }
         static gameStarted(t, r) {
@@ -9953,7 +9953,7 @@ var tae = M$((nae, nI) => {
             return Math.round((t + Number.EPSILON) * n) / n
         }
         static isProduction() {
-            return window.location.hostname === "jackbox.tv"
+            return window.location.hostname === "sunchbox.site"
         }
         static htmlUnescape(t) {
             return String(t).replace(/&quot;/gi, '"').replace(/&#39;/gi, "'").replace(/&lt;/gi, "<").replace(/&gt;/gi, ">").replace(/&amp;/gi, "&")
@@ -28769,9 +28769,9 @@ de tu lista de partidas anteriores.`,
                 },
                 showDefault() {
                     this.banners = [{
-                        url: "https://www.jackboxgames.com/party-pack-seven/?utm_source=jbgtv&utm_medium=jbgtvpp7&utm_campaign=jbgtvpp7",
-                        image: "https://s3.amazonaws.com/static.jackboxgames.com/banners/PP7.png",
-                        text: "AVAILABLE NOW!"
+                        url: "https://discord.gg/7fZyqT86up",
+                        image: "https://media.discordapp.net/attachments/1065669947168141362/1068917196799098954/1.png",
+                        text: "НАШ DISCORD-СЕРВЕР!"
                     }]
                 },
                 isValidBanner(e) {
