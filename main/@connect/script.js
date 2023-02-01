@@ -26830,7 +26830,7 @@ ${t}`
             FILTER_NAME: "This game has profanity filters enabled. Please pick a different name."
         },
         bre = {
-            NAME: "NAME",
+            NAME: "ИМЯ",
             NAME_PLACEHOLDER: "ВВЕДИТЕ ВАШЕ ИМЯ",
             PASSWORD_PLACEHOLDER: "ВВЕДИТЕ 5-ЗНАЧНЫЙ ПАРОЛЬ",
             PASSWORD_REQUIRED_TITLE: "Требуется пароль",
