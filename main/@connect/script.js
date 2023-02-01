@@ -26837,7 +26837,7 @@ ${t}`
             PASSWORD_REQUIRED_BODY: "Пожалуйста, введите пароль или присоединяйтесь в качестве участника аудитории",
             PASSWORD_JOIN_AS_PLAYER: "Зайти как игрок",
             PASSWORD_JOIN_AS_AUDIENCE: "Зайти как зритель",
-            ROOM_CODE: "ROOM CODE",
+            ROOM_CODE: "КОД КОМНАТЫ",
             ROOM_CODE_PLACEHOLDER: "ВВЕДИТЕ КОД КОМНАТЫ"
         },
         Tre = "Link to Jackbox Games Homepage",
@@ -26849,7 +26849,7 @@ ${t}`
             LIGHT: "light",
             LOGOUT: "ВЫЙТИ",
             MERCH: "МЕРЧ",
-            PAST_GAMES: "ПРОШЛЫЕ ИГР",
+            PAST_GAMES: "ПРОШЛЫЕ ИГРЫ",
             MAILING_LIST: "MAILING LIST",
             MODERATOR: "МОДЕРАТОР"
         },
@@ -26895,7 +26895,7 @@ from your past games list.`,
         Rre = {
             CAMERA: "[b]HEADS UP:[/b] We\u2019re not detecting a camera, but you can still play the game without a photo. If this seems wrong, try joining with a different browser.",
             STYLE: "[b]HEADS UP:[/b] Your browser seems a bit outdated, and will have some issues displaying this game.",
-            TOS: "By clicking {submit}, you agree to our [tos]Terms of Service[/tos]"
+            TOS: "Нажимая {submit}, вы соглашаетесь с нашими [tos]Условиями обслуживания[/tos]"
         },
         Nre = {
             BRANCH: yre,
