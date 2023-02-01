@@ -13694,7 +13694,7 @@ var tae = M$((nae, nI) => {
             categoryId: "OverdrawnGame",
             shopItems: ["shirts"]
         }, {
-            name: "You Don't Know Jack: Full Stream",
+            name: "Ты не знаешь САНЧОУСА: Full Stream",
             tag: "ydkj2018",
             wrapper: "marionette",
             isPublic: !0,
@@ -13823,7 +13823,7 @@ var tae = M$((nae, nI) => {
             categoryId: "DrawfulAnimateGame",
             features: ["moderation"]
         }, {
-            name: "The Wheel of Enormous Proportions",
+            name: "Пельмень Невероятных Масштабов",
             tag: "the-wheel",
             wrapper: "vue",
             isPublic: !0,
@@ -15492,24 +15492,24 @@ ${r.message}`,
         }
     }
     const eq = {
-            BACK: "Back",
-            CANCEL: "Cancel",
-            CLOSE: "Close",
-            CONFIRM: "Confirm",
-            CREATE: "Create",
-            DELETE: "Delete",
-            DONE: "Done",
-            EDIT: "Edit",
+            BACK: "Назад",
+            CANCEL: "Отменить",
+            CLOSE: "Закрыть",
+            CONFIRM: "Подтвердить",
+            CREATE: "Создать",
+            DELETE: "Удалить",
+            DONE: "Всё",
+            EDIT: "Редактировать",
             OK: "OK",
-            NO: "No",
-            PLAY: "Play",
+            NO: "Нет",
+            PLAY: "Играть",
             PUBLISH: "Publish",
-            REMOVE: "Remove",
-            RESET: "Reset",
-            SUBMIT: "Submit",
-            TRY_AGAIN: "Try Again",
-            UNDO: "Undo",
-            YES: "Yes"
+            REMOVE: "Убрать",
+            RESET: "Стереть",
+            SUBMIT: "Подтвердить",
+            TRY_AGAIN: "Попробовать снова",
+            UNDO: "Вернуть",
+            YES: "Да"
         },
         tq = {
             UGC: {
@@ -15520,34 +15520,34 @@ ${r.message}`,
             }
         },
         rq = {
-            DISCONNECTED: "You have been disconnected.",
-            DRAWING_NOTHING: "You have to draw something!",
-            PLAYER_KICKED: "You have been kicked from the game by a moderator.",
-            ROOM_DESTROYED: "Thanks for playing!",
-            ROOM_DISCONNECTED: "Disconnected",
+            DISCONNECTED: "Вы были отключены.",
+            DRAWING_NOTHING: "Вы должны что-нибудь нарисовать!",
+            PLAYER_KICKED: "Вы были исключены из игры модератором.",
+            ROOM_DESTROYED: "Спасибо за игру!",
+            ROOM_DISCONNECTED: "Отключено",
             TEXT_NAUGHTY: "I\u2019m afraid you can\u2019t write that. Please be respectful of other players.",
             TEXT_NOTHING: "You can\u2019t enter nothing!",
-            TITLE: "Error"
+            TITLE: "Ошибка"
         },
-        nq = "LOADING",
+        nq = "ЗАГРУЗКА",
         iq = {
-            JOINED_COUNT: "{count} of {maxPlayers} players joined",
-            PLAYERS_NEEDED: "1 player needed to start | {count} players needed to start",
-            WAITING_FOR_VIP: "Waiting for {name} to start the game",
-            WAITING_FOR_GAMEPAD: "Waiting for the game to start",
-            GAME_STARTING: "Game is starting",
-            BUTTON_START: "Press to Start",
-            BUTTON_CANCEL: "Press to Cancel"
+            JOINED_COUNT: "{count} из {maxPlayers} игроков подключено",
+            PLAYERS_NEEDED: "1 игрок нужен, чтобы начать | {count} игроков нужно, чтобы начать",
+            WAITING_FOR_VIP: "Ждём когда {name} запустит игру!",
+            WAITING_FOR_GAMEPAD: "Ждём начала игры",
+            GAME_STARTING: "Игра началась",
+            BUTTON_START: "Нажми, чтобы начать",
+            BUTTON_CANCEL: "Нажми для отмены"
         },
         sq = {
-            GALLERY_LINK: "Visit the Gallery",
-            PLAY_AGAIN: "Play again?",
-            BUTTON_SAME_PLAYERS: "Same Players",
-            BUTTON_NEW_PLAYERS: "New Players"
+            GALLERY_LINK: "Посетить галлерею",
+            PLAY_AGAIN: "Играть снова?",
+            BUTTON_SAME_PLAYERS: "Те же игроки",
+            BUTTON_NEW_PLAYERS: "Новые игроки"
         },
         aq = {
-            AND: "AND",
-            OR: "OR"
+            AND: "И",
+            OR: "ИЛИ"
         },
         oq = {
             BUTTON_SKIP: "Skip",
@@ -26817,9 +26817,9 @@ ${t}`
         },
         Ere = {
             UNSUPPORTED_BROWSER: "This game is not supported on this browser. View '?' or HELP to see a list of compatible browsers.",
-            ROOM_IS_FULL: "The game is full",
-            ROOM_NOT_FOUND: "Room not found",
-            AUDIENCE_IS_FULL: "The audience is full",
+            ROOM_IS_FULL: "Комната заполнена",
+            ROOM_NOT_FOUND: "Комната не найдена",
+            AUDIENCE_IS_FULL: "Зрители полны",
             UNABLE_TO_CONNECT: "Unable to connect to the Jackbox Games server. This is commonly caused by adblockers or privacy extensions.",
             UNABLE_TO_PRELOAD: "Unable to preload this game bundle",
             KICKED: "You cannot join because you have been kicked by a moderator",
@@ -26831,27 +26831,27 @@ ${t}`
         },
         bre = {
             NAME: "NAME",
-            NAME_PLACEHOLDER: "ENTER YOUR NAME",
-            PASSWORD_PLACEHOLDER: "ENTER 5-DIGIT PASSWORD",
-            PASSWORD_REQUIRED_TITLE: "Password required",
-            PASSWORD_REQUIRED_BODY: "Please enter the password or join as an audience member",
-            PASSWORD_JOIN_AS_PLAYER: "Join as Player",
-            PASSWORD_JOIN_AS_AUDIENCE: "Join Audience",
+            NAME_PLACEHOLDER: "ВВЕДИТЕ ВАШЕ ИМЯ",
+            PASSWORD_PLACEHOLDER: "ВВЕДИТЕ 5-ЗНАЧНЫЙ ПАРОЛЬ",
+            PASSWORD_REQUIRED_TITLE: "Требуется пароль",
+            PASSWORD_REQUIRED_BODY: "Пожалуйста, введите пароль или присоединяйтесь в качестве участника аудитории",
+            PASSWORD_JOIN_AS_PLAYER: "Зайти как игрок",
+            PASSWORD_JOIN_AS_AUDIENCE: "Зайти как зритель",
             ROOM_CODE: "ROOM CODE",
-            ROOM_CODE_PLACEHOLDER: "ENTER 4-LETTER CODE"
+            ROOM_CODE_PLACEHOLDER: "ВВЕДИТЕ КОД КОМНАТЫ"
         },
         Tre = "Link to Jackbox Games Homepage",
         Sre = {
-            APPEARANCE: "APPEARANCE",
+            APPEARANCE: "ТЕМА",
             DARK: "dark",
-            HELP: "HELP",
+            HELP: "ПОМОЩЬ",
             TWITCH: "TWITCH",
             LIGHT: "light",
-            LOGOUT: "LOGOUT",
-            MERCH: "MERCH",
-            PAST_GAMES: "PAST GAMES",
+            LOGOUT: "ВЫЙТИ",
+            MERCH: "МЕРЧ",
+            PAST_GAMES: "ПРОШЛЫЕ ИГР",
             MAILING_LIST: "MAILING LIST",
-            MODERATOR: "MODERATOR"
+            MODERATOR: "МОДЕРАТОР"
         },
         Ore = {
             CALL_TO_ACTION: {
@@ -26886,11 +26886,11 @@ from your past games list.`,
             ROOM_NOT_FOUND: "Room not found"
         },
         Cre = {
-            GAME_FULL: "GAME IS FULL",
-            GAME_STARTED: "GAME HAS STARTED",
-            JOIN_AUDIENCE: "JOIN AUDIENCE",
-            RECONNECT: "RECONNECT",
-            TWITCH_LOGIN: "LOGIN WITH TWITCH"
+            GAME_FULL: "КОМНАТА ПОЛНА",
+            GAME_STARTED: "ИГРА НАЧАЛАСЬ",
+            JOIN_AUDIENCE: "ЗРИТЕЛИ",
+            RECONNECT: "ПЕРЕПОДКЛЮЧИТЬСЯ",
+            TWITCH_LOGIN: "ЗАЙТИ С TWITCH"
         },
         Rre = {
             CAMERA: "[b]HEADS UP:[/b] We\u2019re not detecting a camera, but you can still play the game without a photo. If this seems wrong, try joining with a different browser.",
