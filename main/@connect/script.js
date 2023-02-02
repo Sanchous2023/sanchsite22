@@ -26881,9 +26881,9 @@ from your past games list.`,
             }
         },
         Ire = {
-            GAME_FULL: "Game is full",
-            GAME_STARTED: "Game has started",
-            ROOM_NOT_FOUND: "Room not found"
+            GAME_FULL: "Комната заполнена",
+            GAME_STARTED: "Игра началась",
+            ROOM_NOT_FOUND: "Комната не найдена"
         },
         Cre = {
             GAME_FULL: "КОМНАТА ПОЛНА",
