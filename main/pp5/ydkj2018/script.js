@@ -16807,8 +16807,8 @@ wt.View.extend({
     },
     onRoomWasDestroyed() {
         Zt.remove("roomCode"), Zt.remove("reconnect"), At.show("error", {
-            titleText: "Disconnected",
-            text: "Thanks for playing!",
+            titleText: "Отключено",
+            text: "Спасибо за игру!",
             willClose: () => {
                 window.location.reload(!0)
             }
@@ -16816,8 +16816,8 @@ wt.View.extend({
     },
     onDisconnected() {
         At.show("error", {
-            titleText: "Disconnected",
-            text: "You have been disconnected.",
+            titleText: "Отключено",
+            text: "Вы были отключены.",
             willClose: () => {
                 window.location.reload(!0)
             }
@@ -16886,26 +16886,26 @@ const $k = `<div id="controller" class="state-controller controller-content">
             formattedActiveContentId: null,
             isLocal: !1,
             strings: {
-                wait: "Sit back and relax!",
-                vip_waiting: "Waiting for all players to join",
-                vip_canStart: "Press this button when everybody has joined",
-                vip_cancel: "Press this button to cancel game start",
-                vip_postgame: "What would you like to do now?",
-                vip_episodes_menu: "Episodes Menu",
+                wait: "Сядьте поудобнее и расслабьтесь!",
+                vip_waiting: "Ждем, когда все игроки присоединятся",
+                vip_canStart: "Нажми на эту кнопку, когда все присоединятся",
+                vip_cancel: "Нажми на эту кнопку, чтобы отменить игру",
+                vip_postgame: "Что бы вы хотели сейчас сделать?",
+                vip_episodes_menu: "Меню эпизодов",
                 vip_episodes_unload: "Unload Episode",
                 vip_episodes_report: "Report Episode",
                 vip_episodes_warning: "Warning: user generated content is not rated",
                 vip_episodes_load: "Load an episode by id:",
                 vip_episodes_select: "Or select an episode:",
-                vip_episodes_back: "Back",
+                vip_episodes_back: "Назад",
                 vip_episodes_submit: "SUBMIT",
-                vip_episodes_view_author: "View Author",
-                button_start: "Everybody's In",
-                button_cancel: "Cancel",
-                button_changename: "Change Name",
-                button_sameplayers: "Same Players",
-                button_newplayers: "New Players",
-                prompt_entername: "Enter your name",
+                vip_episodes_view_author: "Посмотреть автора",
+                button_start: "Все здесь",
+                button_cancel: "Отменить",
+                button_changename: "Изменить имя",
+                button_sameplayers: "Те же игроки",
+                button_newplayers: "Новые игроки",
+                prompt_entername: "Введите ваше имя",
                 prompt_choosecharacter: "Select your character",
                 button_censorOptions: "Censor Options",
                 censor_prompt: ""
