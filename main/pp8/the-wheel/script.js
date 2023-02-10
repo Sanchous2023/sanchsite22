@@ -10697,24 +10697,24 @@ ${n.message}`,
     let nu = ec;
     he(nu, "isPolyfilled", !1);
     const EG = {
-            BACK: "Back",
-            CANCEL: "Cancel",
-            CLOSE: "Close",
-            CONFIRM: "Confirm",
+            BACK: "Назад",
+            CANCEL: "Отмена",
+            CLOSE: "Закрыть",
+            CONFIRM: "Подтвердить",
             CREATE: "Create",
             DELETE: "Delete",
             DONE: "Done",
             EDIT: "Edit",
             OK: "OK",
             NO: "No",
-            PLAY: "Play",
-            PUBLISH: "Publish",
-            REMOVE: "Remove",
-            RESET: "Reset",
-            SUBMIT: "Submit",
-            TRY_AGAIN: "Try Again",
-            UNDO: "Undo",
-            YES: "Yes"
+            PLAY: "Играть",
+            PUBLISH: "Публиковать",
+            REMOVE: "Убрать",
+            RESET: "Стереть",
+            SUBMIT: "Подтвердить",
+            TRY_AGAIN: "Попробовать снова",
+            UNDO: "Вернуть",
+            YES: "Да"
         },
         SG = {
             UGC: {
@@ -10736,31 +10736,31 @@ ${n.message}`,
         },
         CG = "LOADING",
         wG = {
-            JOINED_COUNT: "x | {count} of {maxPlayers} players joined | {count} of {maxPlayers} players joined",
-            PLAYERS_NEEDED: "x | {count} player needed to start | {count} players needed to start",
-            WAITING_FOR_VIP: "Waiting for {name} to start the game",
-            WAITING_FOR_GAMEPAD: "Waiting for the game to start",
-            GAME_STARTING: "Game is starting",
-            BUTTON_START: "Press to Start",
-            BUTTON_CANCEL: "Press to Cancel"
+            JOINED_COUNT: "x | {count} из {maxPlayers} игроков присоединилось | {count} из {maxPlayers} игроков присоединилось",
+            PLAYERS_NEEDED: "x | {count} игрок нужен, чтобы начать | {count} игроков нужно, чтобы начать",
+            WAITING_FOR_VIP: "Ждем, когда {name} начнёт игру",
+            WAITING_FOR_GAMEPAD: "Ждем начала игры",
+            GAME_STARTING: "Игра начинается",
+            BUTTON_START: "Нажми, для запуска",
+            BUTTON_CANCEL: "Нажми, для отмены"
         },
         $G = {
-            GALLERY_LINK: "Visit the Gallery",
-            PLAY_AGAIN: "Play again?",
-            BUTTON_SAME_PLAYERS: "Same Players",
-            BUTTON_NEW_PLAYERS: "New Players"
+            GALLERY_LINK: "Посетить Галлерею",
+            PLAY_AGAIN: "Играть снова?",
+            BUTTON_SAME_PLAYERS: "Те же игроки",
+            BUTTON_NEW_PLAYERS: "Новые игроки"
         },
         OG = {
-            AND: "AND",
-            OR: "OR"
+            AND: "И",
+            OR: "ИЛИ"
         },
         xG = {
-            BUTTON_SKIP: "Skip",
-            BUTTON_NEXT: "Next",
+            BUTTON_SKIP: "Пропустить",
+            BUTTON_NEXT: "Дальше",
             BUTTON_DONE: "Let\u2019s Go!"
         },
         AG = {
-            NAME: "AUDIENCE"
+            NAME: "ЗРИТЕЛИ"
         },
         LG = {
             EPISODE_REPORT: "Report Episode",
@@ -25410,8 +25410,8 @@ ${e}`
             PLACEHOLDER: "Enter A Guess"
         },
         Dae = {
-            SPIN: '[player avatar="{avatar}"]{name}[/player] is the spinner',
-            MESSAGES: ["Кто украл у моего сына попит?", "Чё зыришь? Глаза пузыришь", "Дорогой дневник, мне не перенести ту боль...", "Привет, пупсик", "Шпион красных на базе!", "Привет, секуалка! Ой, не сюда.", "Алло, ну как там с деньгами?", "СВЕТЛАЯ ТЕМА ВКЛЮЧИТСЯ ЧЕРЕЗ 3.. 2.. 1...", "МИСТЕР БИИИИИСТ.", "я люблю когда волосатые мужики обмазываются маслом.", "Ничего.", "акакнажатьнапробел", "Собственность Санчоуса, не Пельмешка Коли!", "амонг ас секс"]
+            SPIN: '[player avatar="{avatar}"]{name}[/player] крутит Колю',
+            MESSAGES: ["Спагетти с фрикадельками.", "Я каннибал, вопросы?", "уепшщепшг9екпек", "Заканчивай стрим сука, съёмки запрещены", "Жди", "Обернись.", "Что ты тут забыл?", "Помогите", "МИСТЕР БИИИИИСТ.", "Наггетсы, 6 штук с кетчупом.", "Ничего.", "Скоро открытие", "Бляяять ебануй перекопать нахуй пиздец сука тигр заплыв архангельск ты нашёл самую секретную пасхалку мира блять ураааа. Это ты хотел увидеть? Нет? Иди нахуй", "А что тут?..."]
         },
         Bae = {
             ANSWER: "answer slice.",
