@@ -27637,8 +27637,8 @@ ${t}`
             })
         },
         die = {
-            BANNER: "Advantage",
-            INSTRUCTIONS: "Make a Choice"
+            BANNER: "Преимущество",
+            INSTRUCTIONS: "Сделай выбор"
         },
         hie = {
             AVATAR: {
@@ -27667,61 +27667,61 @@ ${t}`
             NOTIFICATION: "notification circle"
         },
         pie = {
-            BANNER: "Challenge",
+            BANNER: "Испытание",
             INSTRUCTIONS: {
-                ANSWER: "Submit Your Answer",
-                INTRO: "Introduce Yourself",
-                CONNECTION: "Connect with Somebody",
-                QUICKIE: "Answer Anonymously",
-                FIRESTARTER: "Start Some Drama",
-                FINALE: "Make Your Case"
+                ANSWER: "Введи свой ответ",
+                INTRO: "Представь себя",
+                CONNECTION: "Контактируй с кем-нибудь",
+                QUICKIE: "Ответь анонимно",
+                FIRESTARTER: "Начни с небольшой драмы",
+                FINALE: "Сделай выводы"
             }
         },
         gie = {
-            BANNER: "Elimination"
+            BANNER: "Исключение"
         },
         mie = "1 character remaining | {num} characters remaining",
         vie = {
-            PICKS: "picks",
-            WITH: "with"
+            PICKS: "выбирает",
+            WITH: "с"
         },
         _ie = {
             INSTRUCTIONS: "Who should leave?",
             PLACEHOLDER: "What did they do to deserve this?"
         },
-        yie = "Finale",
-        Eie = "Finished",
+        yie = "Финал",
+        Eie = "Финировал",
         bie = {
             ARIA: {
-                FLAIR: "Write your own detail"
+                FLAIR: "Напишите что-то о себе"
             },
             BANNER: {
-                JOIN: "Join Game",
-                START: "Start Game"
+                JOIN: "Присоединиться",
+                START: "Начать игру"
             },
             INSTRUCTIONS: {
-                AVATAR: "Choose your avatar",
-                FLAIR: "Choose a detail about your character",
+                AVATAR: "Выбери аватар",
+                FLAIR: "Выбери деталь своего характера",
                 NAME: {
-                    HEADER: "Confirm Your Name",
-                    DESCRIPTION: `Other players will see your name.
-Make sure you like it before the competition begins!`,
+                    HEADER: "Подтверди своё имя",
+                    DESCRIPTION: `Другие игроки будут видеть твоё имя.
+Убедись, что оно тебе нравится пока игра не началась!`,
                     WARNING: `NOTE:
-Variations of the name you've chosen may also appear in the game.`
+Варианты of выбранного тобой' имени могут также появится в игре.`
                 },
-                PRONOUN: "Which pronouns should we use?"
+                PRONOUN: "Какие местоимения мы должны использовать?"
             },
             PLACEHOLDER: {
-                FLAIR: "Write your own..."
+                FLAIR: "Напиши своё..."
             },
             PRONOUN: {
-                FEMININE: "she/her",
-                MASCULINE: "he/him",
+                FEMININE: "она/её",
+                MASCULINE: "он/его",
                 NEUTER: "they/them"
             },
             USE_THIS: "Use This"
         },
-        Tie = "Points",
+        Tie = "Очки",
         Sie = "Audience Poll",
         Oie = {
             DESCRIPTION: {
@@ -27732,38 +27732,38 @@ Variations of the name you've chosen may also appear in the game.`
         },
         Iie = {
             CHALLENGE: {
-                WINNER: "Challenge Winner",
-                WHO_VOTED: "Who Voted For Me?"
+                WINNER: "Победитель испытания",
+                WHO_VOTED: "Кто голосовал за меня?"
             },
             ELIMINATION: {
                 WHO_VOTED: {
-                    LAST_ROUND: "Who Tried To Eliminate Me Last Round?",
-                    THIS_ROUND: "Who Voted To Eliminate Me?"
+                    LAST_ROUND: "Кто пытался исключить меня в последнем раунде?",
+                    THIS_ROUND: "Кто пытался исключить меня?"
                 }
             },
-            EVERYONE: "EVERYONE",
-            NO_ONE: "NO ONE",
+            EVERYONE: "ВСЕ",
+            NO_ONE: "НИКТО",
             SUFFIX: {
                 CHALLENGE: {
-                    EVERYONE: ["You're a star!", "Don't get cocky.", "Nailing it.", "You're having a moment."],
-                    NO_ONE: ["Deal with it.", "Time to get noticed!", "Step it up.", "Get on the radar!", "You're blowing it.", "Fix this.", "Scared?", "Change it up!", "\u{1F622}"]
+                    EVERYONE: ["Ты звезда!", "Не будь самоуверенным.", "Заруби это на носу.", "Это твой час."],
+                    NO_ONE: ["Ты справишься с этим.", "Время быть кем-то замеченным!", "Делай шаг вперед.", "Попади в радар!", "Ты всё портишь.", "Исправь это.", "Напуган?", "Измени это!", "\u{1F622}"]
                 },
                 ELIMINATION: {
-                    EVERYONE: ["You're the villain.", "Literally everyone.", "Think about that.", "Figure it out.", "\u{1F622}"],
-                    NO_ONE: ["Enjoy it.", "Exhale.", "You're safe for now."]
+                    EVERYONE: ["Ты злодей.", "Буквально все.", "Подумай об этом.", "Пойми это.", "\u{1F622}"],
+                    NO_ONE: ["Наслаждайся этим.", "Выдохни.", "Пока ты в безопасности."]
                 }
             }
         },
         Aie = {
-            SKIP: "Press to Skip Tutorials"
+            SKIP: "Нажми, чтобы пропустить обучение"
         },
         Nie = {
             GOODBYE: {
-                DONE: "I'm Done"
+                DONE: "Я всё"
             },
             PLACEHOLDER: {
-                GOODBYE: "Say goodbye... or don't!",
-                WRITE: "Write your answer..."
+                GOODBYE: "Попрощайся... ну или же нет!",
+                WRITE: "Напиши свой ответ..."
             }
         },
         wie = {
@@ -27785,7 +27785,7 @@ Variations of the name you've chosen may also appear in the game.`
             WRITING: Nie
         },
         Cie = {
-            BANNER: "Avantage",
+            BANNER: "Преимущество",
             INSTRUCTIONS: "Faites un choix"
         },
         Rie = {
